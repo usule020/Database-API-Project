@@ -6,14 +6,9 @@
       "author": "typicode"
     },
     {
-      "id": 2,
-      "title": "Test Title",
-      "author": "Test Author"
-    },
-    {
       "id": 3,
-      "title": "Test Title",
-      "author": "Test Author"
+      "title": "Test Title Two",
+      "author": "Test Author Three"
     }
   ],
   "comments": [
